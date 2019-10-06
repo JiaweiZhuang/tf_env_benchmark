@@ -1,0 +1,19 @@
+======
+environment: tf-1.13.2-pip
+average time: 2.3112 seconds
+======
+environment: tf-1.14.0-conda
+average time: 1.2110 seconds
+======
+environment: tf-1.14.0-intel-conda
+average time: 0.7679 seconds
+======
+environment: tf-1.14.0-intel-pip
+average time: 0.7607 seconds
+======
+environment: tf-1.14.0-pip
+average time: 0.8127 seconds
+======
+environment: tf-2.0.0-pip
+average time: 0.9263 seconds
+======
