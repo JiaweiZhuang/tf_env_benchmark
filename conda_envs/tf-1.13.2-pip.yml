@@ -1,0 +1,5 @@
+name: tf-1.13.2-pip
+dependencies:
+  - python=3.7.4
+  - pip:
+    - tensorflow==1.13.2

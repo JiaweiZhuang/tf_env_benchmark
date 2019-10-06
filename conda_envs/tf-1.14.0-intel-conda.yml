@@ -1,0 +1,6 @@
+name: tf-1.14.0-intel-conda
+channels:
+  - intel
+dependencies:
+  - python=3.7.4
+  - tensorflow==1.14.0

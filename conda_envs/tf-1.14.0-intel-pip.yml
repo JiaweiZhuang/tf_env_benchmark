@@ -1,0 +1,5 @@
+name: tf-1.14.0-intel-pip
+dependencies:
+  - python=3.7.4
+  - pip:
+    - intel-tensorflow==1.14.0

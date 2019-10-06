@@ -1,0 +1,5 @@
+name: tf-2.0.0-pip
+dependencies:
+  - python=3.7.4
+  - pip:
+    - tensorflow==2.0.0
